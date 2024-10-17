@@ -1,6 +1,7 @@
 # Breast Cancer Diagnosis Using Deep Learning and Synthetic Data Generation
 # Project Overview
-Breast cancer is one of the most prevalent cancers worldwide, with millions of women being diagnosed every year. Early detection plays a critical role in improving survival rates, and mammography is one of the most effective screening tools available. However, identifying subtle abnormalities in mammogram images can be challenging due to the complexity and variability in breast tissue appearances.
+Breast cancer is one of the most prevalent cancers worldwide, with millions of women being diagnosed every year. Early detection plays a critical role in improving survival rates, and mammography is one of the most effective screening tools available. However, identifying subtle abnormalities in mammogram images can be challenging due to the complexity and variability in breast tissue appearances. <br>
+This project addresses the challenge of early and accurate breast cancer detection using deep learning and synthetic data generation. By building a Convolutional Neural Network (CNN) model trained on both real and synthetic mammogram images, we aim to enhance the accuracy of breast cancer diagnosis.
 # Key Features:
 CNN-based Model: A deep learning model trained on real mammogram data to classify breast images as healthy or containing lesions (cancerous or non-cancerous). <br>
 Synthetic Data Generation: A Stable Diffusion model used to create synthetic mammogram images based on mammogram characteristics (e.g., view, density), expanding the dataset and improving model performance. <br>
